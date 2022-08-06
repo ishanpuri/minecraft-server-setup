@@ -4,6 +4,7 @@
 ## How to setup Ubuntu server for Minecraft
 
 - [Ubuntu 20.04-Install & Setup a Minecraft Server](https://www.youtube.com/watch?v=lqaaNvHBYqM)
+- [Tutorials/Setting up a server](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server)
 
 ## Linking domain name with namecheap domain
 
