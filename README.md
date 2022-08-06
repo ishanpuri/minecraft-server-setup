@@ -3,7 +3,7 @@
 
 ## How to setup Ubuntu server for Minecraft
 
-TODO
+[Ubuntu 20.04 | Install & Setup a Minecraft Server](https://www.youtube.com/watch?v=lqaaNvHBYqM)
 
 ## Linking domain name with namecheap domain
 
@@ -13,3 +13,4 @@ TODO
 Reference
 
 - [Creating A Server Like Hypixel! (For Free)](https://www.youtube.com/watch?v=WGVsD2Rs9Pg)
+- 
