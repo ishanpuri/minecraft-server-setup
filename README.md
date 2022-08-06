@@ -1,7 +1,9 @@
 # minecraft-server-setup
 
 
+## How to setup Ubuntu server for Minecraft
 
+TODO
 
 ## Linking domain name with namecheap domain
 
